@@ -2,9 +2,9 @@ function generateMarkdown(data) {
   return `
 
 # ${data.title}
-~~~
+
   ${data.description}
-~~~
+
 # Table of Contents
 |                               |                         |
 | ----------------------------- | ----------------------- |
@@ -33,14 +33,14 @@ function generateMarkdown(data) {
   ![](${data.finalProduct})
 
 # GitHub Links
-~~~
+
   Deployed Project [Link](${data.deployed})<br>
   Project Repository [Link](${data.repo})
-~~~
+
 ## Questions
-~~~
+
  Please direct any questions to ${data.questions}
-~~~
+
 # Contributing
   Please refer to each project's style and contribution guidelines for submitting patches and additions. In general, we follow the "fork-and-pull" Git workflow.
 
@@ -51,7 +51,7 @@ function generateMarkdown(data) {
   5. Submit a Pull request so that we can review your changes
 
 # Credits
-~~~
+
   ${data.credits}
 ~~~
 # License

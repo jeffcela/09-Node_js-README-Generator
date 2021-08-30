@@ -1,8 +1,6 @@
 # Test Project
 
-```
-  This is a test description for a Test Project
-```
+This is a test description for a Test Project
 
 # Table of Contents
 
@@ -38,16 +36,12 @@
 
 # GitHub Links
 
-```
-  Deployed Project [Link](test.com)<br>
-  Project Repository [Link](test.com)
-```
+Deployed Project [Link](test.com)<br>
+Project Repository [Link](test.com)
 
 ## Questions
 
-```
- Please direct any questions to test@test.com
-```
+Please direct any questions to test@test.com
 
 # Contributing
 
@@ -61,9 +55,7 @@ Please refer to each project's style and contribution guidelines for submitting 
 
 # Credits
 
-```
-  testing credits
-```
+testing credits
 
 # License
 
